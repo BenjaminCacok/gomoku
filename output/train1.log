@@ -1,0 +1,101 @@
+[2023-12-22 11:10:15,071][train.py][line:202][INFO] start training!
+[2023-12-22 11:11:11,490][train.py][line:205][INFO] batch i:1, episode_len:22
+[2023-12-22 11:11:55,763][train.py][line:205][INFO] batch i:2, episode_len:17
+[2023-12-22 11:12:31,758][train.py][line:205][INFO] batch i:3, episode_len:13
+[2023-12-22 11:13:20,611][train.py][line:205][INFO] batch i:4, episode_len:15
+[2023-12-22 11:13:22,094][train.py][line:209][INFO] kl:0.17355, lr_multiplier:0.667, loss:2.894719123840332, entropy:1.7069709300994873, explained_var_old:-0.121, explained_var_new:0.300
+[2023-12-22 11:13:58,186][train.py][line:205][INFO] batch i:5, episode_len:13
+[2023-12-22 11:13:58,346][train.py][line:209][INFO] kl:0.08956, lr_multiplier:0.444, loss:2.2301993370056152, entropy:1.8592228889465332, explained_var_old:0.335, explained_var_new:0.591
+[2023-12-22 11:14:53,643][train.py][line:205][INFO] batch i:6, episode_len:16
+[2023-12-22 11:14:54,001][train.py][line:209][INFO] kl:0.06910, lr_multiplier:0.296, loss:2.0230846405029297, entropy:1.586098313331604, explained_var_old:0.367, explained_var_new:0.646
+[2023-12-22 11:15:34,337][train.py][line:205][INFO] batch i:7, episode_len:13
+[2023-12-22 11:15:34,690][train.py][line:209][INFO] kl:0.02395, lr_multiplier:0.296, loss:1.9181852340698242, entropy:1.6477843523025513, explained_var_old:0.580, explained_var_new:0.685
+[2023-12-22 11:16:29,925][train.py][line:205][INFO] batch i:8, episode_len:18
+[2023-12-22 11:16:30,283][train.py][line:209][INFO] kl:0.02531, lr_multiplier:0.296, loss:1.9427239894866943, entropy:1.577187180519104, explained_var_old:0.533, explained_var_new:0.644
+[2023-12-22 11:17:33,186][train.py][line:205][INFO] batch i:9, episode_len:19
+[2023-12-22 11:17:33,545][train.py][line:209][INFO] kl:0.01977, lr_multiplier:0.296, loss:2.1101953983306885, entropy:1.5328820943832397, explained_var_old:0.318, explained_var_new:0.475
+[2023-12-22 11:18:04,996][train.py][line:205][INFO] batch i:10, episode_len:12
+[2023-12-22 11:18:05,351][train.py][line:209][INFO] kl:0.01415, lr_multiplier:0.296, loss:2.06280255317688, entropy:1.6018989086151123, explained_var_old:0.462, explained_var_new:0.551
+[2023-12-22 11:18:51,086][train.py][line:205][INFO] batch i:11, episode_len:16
+[2023-12-22 11:18:51,442][train.py][line:209][INFO] kl:0.02007, lr_multiplier:0.296, loss:2.003316640853882, entropy:1.5756292343139648, explained_var_old:0.471, explained_var_new:0.581
+[2023-12-22 11:19:45,853][train.py][line:205][INFO] batch i:12, episode_len:15
+[2023-12-22 11:19:46,207][train.py][line:209][INFO] kl:0.01770, lr_multiplier:0.296, loss:1.8742620944976807, entropy:1.5136172771453857, explained_var_old:0.531, explained_var_new:0.648
+[2023-12-22 11:20:28,411][train.py][line:205][INFO] batch i:13, episode_len:12
+[2023-12-22 11:20:28,768][train.py][line:209][INFO] kl:0.01140, lr_multiplier:0.296, loss:1.8190176486968994, entropy:1.4877005815505981, explained_var_old:0.574, explained_var_new:0.656
+[2023-12-22 11:21:30,604][train.py][line:205][INFO] batch i:14, episode_len:22
+[2023-12-22 11:21:30,962][train.py][line:209][INFO] kl:0.02121, lr_multiplier:0.296, loss:1.9438449144363403, entropy:1.390552043914795, explained_var_old:0.317, explained_var_new:0.483
+[2023-12-22 11:22:15,615][train.py][line:205][INFO] batch i:15, episode_len:14
+[2023-12-22 11:22:15,970][train.py][line:209][INFO] kl:0.01315, lr_multiplier:0.296, loss:2.015026092529297, entropy:1.4820563793182373, explained_var_old:0.354, explained_var_new:0.486
+[2023-12-22 11:22:50,724][train.py][line:205][INFO] batch i:16, episode_len:13
+[2023-12-22 11:22:51,078][train.py][line:209][INFO] kl:0.01561, lr_multiplier:0.296, loss:1.9081982374191284, entropy:1.4842214584350586, explained_var_old:0.443, explained_var_new:0.562
+[2023-12-22 11:25:14,429][train.py][line:205][INFO] batch i:17, episode_len:64
+[2023-12-22 11:25:14,781][train.py][line:209][INFO] kl:0.09584, lr_multiplier:0.198, loss:1.9181084632873535, entropy:1.5262115001678467, explained_var_old:0.402, explained_var_new:0.533
+[2023-12-22 11:25:43,868][train.py][line:205][INFO] batch i:18, episode_len:10
+[2023-12-22 11:25:44,226][train.py][line:209][INFO] kl:0.03334, lr_multiplier:0.198, loss:1.9039437770843506, entropy:1.5274221897125244, explained_var_old:0.428, explained_var_new:0.515
+[2023-12-22 11:27:52,572][train.py][line:205][INFO] batch i:19, episode_len:64
+[2023-12-22 11:27:52,924][train.py][line:209][INFO] kl:0.05974, lr_multiplier:0.132, loss:2.0589935779571533, entropy:1.5945947170257568, explained_var_old:0.260, explained_var_new:0.370
+[2023-12-22 11:28:46,195][train.py][line:205][INFO] batch i:20, episode_len:24
+[2023-12-22 11:28:46,555][train.py][line:209][INFO] kl:0.02318, lr_multiplier:0.132, loss:2.1413702964782715, entropy:1.6222443580627441, explained_var_old:0.172, explained_var_new:0.274
+[2023-12-22 11:29:16,917][train.py][line:205][INFO] batch i:21, episode_len:12
+[2023-12-22 11:29:17,272][train.py][line:209][INFO] kl:0.01808, lr_multiplier:0.132, loss:2.0587334632873535, entropy:1.5691070556640625, explained_var_old:0.284, explained_var_new:0.365
+[2023-12-22 11:29:56,966][train.py][line:205][INFO] batch i:22, episode_len:13
+[2023-12-22 11:29:57,320][train.py][line:209][INFO] kl:0.01325, lr_multiplier:0.132, loss:2.0901665687561035, entropy:1.6198503971099854, explained_var_old:0.258, explained_var_new:0.350
+[2023-12-22 11:31:52,991][train.py][line:205][INFO] batch i:23, episode_len:64
+[2023-12-22 11:31:53,349][train.py][line:209][INFO] kl:0.02224, lr_multiplier:0.132, loss:2.0864646434783936, entropy:1.6305158138275146, explained_var_old:0.226, explained_var_new:0.306
+[2023-12-22 11:32:39,841][train.py][line:205][INFO] batch i:24, episode_len:15
+[2023-12-22 11:32:40,199][train.py][line:209][INFO] kl:0.02651, lr_multiplier:0.132, loss:2.124577283859253, entropy:1.721156120300293, explained_var_old:0.190, explained_var_new:0.286
+[2023-12-22 11:33:31,219][train.py][line:205][INFO] batch i:25, episode_len:19
+[2023-12-22 11:33:31,576][train.py][line:209][INFO] kl:0.02094, lr_multiplier:0.132, loss:2.0845367908477783, entropy:1.666650414466858, explained_var_old:0.329, explained_var_new:0.402
+[2023-12-22 11:34:39,577][train.py][line:205][INFO] batch i:26, episode_len:25
+[2023-12-22 11:34:39,930][train.py][line:209][INFO] kl:0.01201, lr_multiplier:0.132, loss:2.032014846801758, entropy:1.6321845054626465, explained_var_old:0.307, explained_var_new:0.407
+[2023-12-22 11:35:33,771][train.py][line:205][INFO] batch i:27, episode_len:23
+[2023-12-22 11:35:34,118][train.py][line:209][INFO] kl:0.01700, lr_multiplier:0.132, loss:2.0532209873199463, entropy:1.6632415056228638, explained_var_old:0.294, explained_var_new:0.369
+[2023-12-22 11:36:15,503][train.py][line:205][INFO] batch i:28, episode_len:19
+[2023-12-22 11:36:15,861][train.py][line:209][INFO] kl:0.02057, lr_multiplier:0.132, loss:2.134666919708252, entropy:1.7178068161010742, explained_var_old:0.292, explained_var_new:0.380
+[2023-12-22 11:36:43,239][train.py][line:205][INFO] batch i:29, episode_len:9
+[2023-12-22 11:36:43,598][train.py][line:209][INFO] kl:0.02062, lr_multiplier:0.132, loss:2.206270694732666, entropy:1.758184790611267, explained_var_old:0.173, explained_var_new:0.268
+[2023-12-22 11:37:34,990][train.py][line:205][INFO] batch i:30, episode_len:19
+[2023-12-22 11:37:35,349][train.py][line:209][INFO] kl:0.01073, lr_multiplier:0.132, loss:2.0866785049438477, entropy:1.715937852859497, explained_var_old:0.364, explained_var_new:0.435
+[2023-12-22 11:38:22,655][train.py][line:205][INFO] batch i:31, episode_len:14
+[2023-12-22 11:38:23,013][train.py][line:209][INFO] kl:0.01238, lr_multiplier:0.132, loss:2.0669212341308594, entropy:1.6507540941238403, explained_var_old:0.357, explained_var_new:0.430
+[2023-12-22 11:39:48,105][train.py][line:205][INFO] batch i:32, episode_len:30
+[2023-12-22 11:39:48,465][train.py][line:209][INFO] kl:0.01036, lr_multiplier:0.132, loss:1.9493606090545654, entropy:1.6238489151000977, explained_var_old:0.431, explained_var_new:0.503
+[2023-12-22 11:40:54,821][train.py][line:205][INFO] batch i:33, episode_len:23
+[2023-12-22 11:40:55,175][train.py][line:209][INFO] kl:0.00940, lr_multiplier:0.198, loss:2.0933427810668945, entropy:1.6834847927093506, explained_var_old:0.372, explained_var_new:0.450
+[2023-12-22 11:42:39,782][train.py][line:205][INFO] batch i:34, episode_len:53
+[2023-12-22 11:42:40,139][train.py][line:209][INFO] kl:0.02380, lr_multiplier:0.198, loss:2.0578455924987793, entropy:1.6650868654251099, explained_var_old:0.382, explained_var_new:0.503
+[2023-12-22 11:43:43,768][train.py][line:205][INFO] batch i:35, episode_len:23
+[2023-12-22 11:43:44,128][train.py][line:209][INFO] kl:0.01733, lr_multiplier:0.198, loss:2.0496089458465576, entropy:1.6798830032348633, explained_var_old:0.393, explained_var_new:0.515
+[2023-12-22 11:44:25,024][train.py][line:205][INFO] batch i:36, episode_len:15
+[2023-12-22 11:44:25,385][train.py][line:209][INFO] kl:0.02167, lr_multiplier:0.198, loss:2.0323286056518555, entropy:1.65986168384552, explained_var_old:0.430, explained_var_new:0.541
+[2023-12-22 11:45:26,019][train.py][line:205][INFO] batch i:37, episode_len:21
+[2023-12-22 11:45:26,379][train.py][line:209][INFO] kl:0.02056, lr_multiplier:0.198, loss:2.099482297897339, entropy:1.731997013092041, explained_var_old:0.483, explained_var_new:0.589
+[2023-12-22 11:46:01,449][train.py][line:205][INFO] batch i:38, episode_len:14
+[2023-12-22 11:46:01,809][train.py][line:209][INFO] kl:0.01720, lr_multiplier:0.198, loss:2.130950927734375, entropy:1.762843370437622, explained_var_old:0.431, explained_var_new:0.530
+[2023-12-22 11:46:26,274][train.py][line:205][INFO] batch i:39, episode_len:9
+[2023-12-22 11:46:26,638][train.py][line:209][INFO] kl:0.01806, lr_multiplier:0.198, loss:2.0797064304351807, entropy:1.7128479480743408, explained_var_old:0.420, explained_var_new:0.514
+[2023-12-22 11:47:55,275][train.py][line:205][INFO] batch i:40, episode_len:37
+[2023-12-22 11:47:55,636][train.py][line:209][INFO] kl:0.02721, lr_multiplier:0.198, loss:2.0234646797180176, entropy:1.7177493572235107, explained_var_old:0.508, explained_var_new:0.604
+[2023-12-22 11:48:47,654][train.py][line:205][INFO] batch i:41, episode_len:19
+[2023-12-22 11:48:48,014][train.py][line:209][INFO] kl:0.01757, lr_multiplier:0.198, loss:2.1169273853302, entropy:1.746824026107788, explained_var_old:0.485, explained_var_new:0.577
+[2023-12-22 11:49:41,862][train.py][line:205][INFO] batch i:42, episode_len:21
+[2023-12-22 11:49:42,223][train.py][line:209][INFO] kl:0.02408, lr_multiplier:0.198, loss:2.061713218688965, entropy:1.6891069412231445, explained_var_old:0.500, explained_var_new:0.584
+[2023-12-22 11:50:59,661][train.py][line:205][INFO] batch i:43, episode_len:29
+[2023-12-22 11:51:00,023][train.py][line:209][INFO] kl:0.03492, lr_multiplier:0.198, loss:2.0501716136932373, entropy:1.7719018459320068, explained_var_old:0.501, explained_var_new:0.599
+[2023-12-22 11:51:28,503][train.py][line:205][INFO] batch i:44, episode_len:11
+[2023-12-22 11:51:28,866][train.py][line:209][INFO] kl:0.02344, lr_multiplier:0.198, loss:2.021780252456665, entropy:1.6857091188430786, explained_var_old:0.495, explained_var_new:0.569
+[2023-12-22 11:52:24,715][train.py][line:205][INFO] batch i:45, episode_len:21
+[2023-12-22 11:52:25,078][train.py][line:209][INFO] kl:0.02120, lr_multiplier:0.198, loss:1.9731065034866333, entropy:1.6619021892547607, explained_var_old:0.542, explained_var_new:0.605
+[2023-12-22 11:52:59,102][train.py][line:205][INFO] batch i:46, episode_len:15
+[2023-12-22 11:52:59,466][train.py][line:209][INFO] kl:0.02108, lr_multiplier:0.198, loss:1.9805889129638672, entropy:1.6984989643096924, explained_var_old:0.552, explained_var_new:0.613
+[2023-12-22 11:53:57,450][train.py][line:205][INFO] batch i:47, episode_len:19
+[2023-12-22 11:53:57,816][train.py][line:209][INFO] kl:0.03111, lr_multiplier:0.198, loss:2.0177688598632812, entropy:1.6339547634124756, explained_var_old:0.543, explained_var_new:0.606
+[2023-12-22 11:55:29,553][train.py][line:205][INFO] batch i:48, episode_len:45
+[2023-12-22 11:55:29,914][train.py][line:209][INFO] kl:0.01820, lr_multiplier:0.198, loss:2.0443058013916016, entropy:1.7383140325546265, explained_var_old:0.534, explained_var_new:0.599
+[2023-12-22 11:56:27,530][train.py][line:205][INFO] batch i:49, episode_len:20
+[2023-12-22 11:56:27,888][train.py][line:209][INFO] kl:0.01672, lr_multiplier:0.198, loss:1.9746906757354736, entropy:1.6929476261138916, explained_var_old:0.578, explained_var_new:0.645
+[2023-12-22 11:57:32,621][train.py][line:205][INFO] batch i:50, episode_len:28
+[2023-12-22 11:57:32,978][train.py][line:209][INFO] kl:0.01998, lr_multiplier:0.198, loss:2.1049327850341797, entropy:1.7543290853500366, explained_var_old:0.527, explained_var_new:0.616
+[2023-12-22 11:57:32,978][train.py][line:213][INFO] current self-play batch: 50
+[2023-12-22 12:03:47,506][train.py][line:215][INFO] num_playouts:1000, win: 10, lose: 0, tie:0
+[2023-12-22 12:03:47,511][train.py][line:219][INFO] New best policy!!!!!!!!The new best win ratio is 1.0
